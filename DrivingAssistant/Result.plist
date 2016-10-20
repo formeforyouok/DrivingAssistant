@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>A或者正确</string>
+	<key>2</key>
+	<string>B或者错误</string>
+	<key>3</key>
+	<string>C</string>
+	<key>4</key>
+	<string>D</string>
+	<key>7</key>
+	<string>AB</string>
+	<key>8</key>
+	<string>AC</string>
+	<key>9</key>
+	<string>AD</string>
+	<key>10</key>
+	<string>BC</string>
+	<key>11</key>
+	<string>BD</string>
+	<key>12</key>
+	<string>CD</string>
+	<key>13</key>
+	<string>ABC</string>
+	<key>14</key>
+	<string>ABD</string>
+	<key>15</key>
+	<string>ACD</string>
+	<key>16</key>
+	<string>BCD</string>
+	<key>17</key>
+	<string>ABCD</string>
+</dict>
+</plist>

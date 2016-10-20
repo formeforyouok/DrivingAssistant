@@ -1,0 +1,25 @@
+//
+//  DrivingTest.pch
+//  DrivingAssistant
+//
+//  Created by HLP on 15/9/1.
+//  Copyright (c) 2015年 zhanhao. All rights reserved.
+//
+
+#ifndef DrivingAssistant_DrivingTest_pch
+#define DrivingAssistant_DrivingTest_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "Drivingcfg.h"
+#import "UIView+Frame.h"
+#import "UIImage+Resizable.h"
+#import "UIBarButtonItem+Create.h"
+#import "Common.h"
+#import "HTTPRequestManager.h"
+#import "Masonry.h"
+#import "UIImage+GetRoundImage.h"
+
+#endif
